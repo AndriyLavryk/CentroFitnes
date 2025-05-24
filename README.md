@@ -1,6 +1,7 @@
 CentroFitnes — Flask + SQLite
 
 ESPAÑOL
+
 Aplicación web para gestionar clientes de un centro fitness usando Flask y SQLite para almacenamiento local. Ideal para testing y desarrollo sin configurar base de datos externa.
 Requisitos: Python 3.7+, paquetes en requirements.txt.
 Instalación:
@@ -27,7 +28,9 @@ Notas:
 
     SECRET_KEY está configurado en app.py para desarrollo. Para producción, usa variables de entorno.
 
+
 ENGLISH
+
 Web application for managing fitness center clients using Flask and SQLite for local storage. Perfect for testing and development without external DB setup.
 Requirements: Python 3.7+, packages in requirements.txt.
 Installation:
@@ -54,7 +57,10 @@ Notes:
 
     SECRET_KEY is set in app.py for development. Use environment variables in production.
 
+
+
 РУССКИЙ
+
 Веб-приложение для управления клиентами фитнес-центра с использованием Flask и SQLite для локального хранения. Удобно для тестирования и разработки без настройки внешней базы данных.
 Требования: Python 3.7+, пакеты из requirements.txt.
 Установка:
