@@ -1,6 +1,6 @@
 CentroFitnes — Flask + SQLite
 
-ESPAÑOL
+# ESPAÑOL
 
 Aplicación web para gestionar clientes de un centro fitness usando Flask y SQLite para almacenamiento local. Ideal para testing y desarrollo sin configurar base de datos externa.
 Requisitos: Python 3.7+, paquetes en requirements.txt.
@@ -9,10 +9,11 @@ Instalación:
 git clone https://github.com/AndriyLavryk/CentroFitnes.git  
 cd CentroFitnes  
 python -m venv .venv  
-# Windows  
+### Windows  
 .venv\Scripts\activate  
-# Linux/macOS  
+### Linux/macOS  
 source .venv/bin/activate  
+
 pip install -r requirements.txt  
 
 Uso:
@@ -29,7 +30,7 @@ Notas:
     SECRET_KEY está configurado en app.py para desarrollo. Para producción, usa variables de entorno.
 
 
-ENGLISH
+# ENGLISH
 
 Web application for managing fitness center clients using Flask and SQLite for local storage. Perfect for testing and development without external DB setup.
 Requirements: Python 3.7+, packages in requirements.txt.
@@ -38,10 +39,11 @@ Installation:
 git clone https://github.com/AndriyLavryk/CentroFitnes.git  
 cd CentroFitnes  
 python -m venv .venv  
-# Windows  
+### Windows  
 .venv\Scripts\activate  
-# Linux/macOS  
+### Linux/macOS  
 source .venv/bin/activate  
+
 pip install -r requirements.txt  
 
 Usage:
@@ -59,7 +61,7 @@ Notes:
 
 
 
-РУССКИЙ
+# РУССКИЙ
 
 Веб-приложение для управления клиентами фитнес-центра с использованием Flask и SQLite для локального хранения. Удобно для тестирования и разработки без настройки внешней базы данных.
 Требования: Python 3.7+, пакеты из requirements.txt.
@@ -68,9 +70,9 @@ Notes:
 git clone https://github.com/AndriyLavryk/CentroFitnes.git  
 cd CentroFitnes  
 python -m venv .venv  
-# Windows  
+### Windows  
 .venv\Scripts\activate  
-# Linux/macOS  
+### Linux/macOS  
 source .venv/bin/activate  
 pip install -r requirements.txt  
 
